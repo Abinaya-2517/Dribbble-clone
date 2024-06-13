@@ -36,7 +36,7 @@ const Menu = ({ sortOption, setSortOption,category,setCategory,tagsearch,setTags
               <a onClick={() => handleOptionClick("Following")}>Following</a>
               <a onClick={() => handleOptionClick("Popular")}>Popular</a>
               <a onClick={() => handleOptionClick("NoteWorthy")}>
-                Noteworthy
+                New & Noteworthy
               </a>
             </div>
           )}
