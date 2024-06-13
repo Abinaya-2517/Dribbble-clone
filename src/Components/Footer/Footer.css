@@ -1,4 +1,3 @@
-
 .footercontainer{
    position:relative;
    display:flex;
@@ -8,7 +7,7 @@
    height:20vh;
    gap: 40px;
    background-color:white;
-   padding: 100px;
+   padding:  70px 100px;
 }
 .footer1container{
   width:100%;
@@ -36,7 +35,7 @@
 }
 .footer2 h2{
     font-size:14px;
-    font-family:"Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;;
+    font-family:"Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
    font-weight: 400;
     white-space: nowrap;
     margin: 5px auto;

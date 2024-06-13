@@ -1,8 +1,7 @@
-
 import React from "react";
-import { FaSquareInstagram } from "react-icons/fa6";
+import { FaInstagram } from "react-icons/fa6";
 import { FaFacebook } from "react-icons/fa";
-import { FaSquareTwitter } from "react-icons/fa6";
+import { FaTwitter } from "react-icons/fa6";
 import { FaPinterest } from "react-icons/fa";
 // import { FaRegCopyright } from "react-icons/fa";
 import "./Footer.css";
@@ -38,9 +37,9 @@ const Footer = () => {
         <h2>Support</h2>
       </div>
       <div className="footer3">
-        <FaSquareInstagram className="icon" />
+        <FaInstagram className="icon" />
         <FaFacebook className="icon" />
-        <FaSquareTwitter className="icon" />
+        <FaTwitter className="icon" />
         <FaPinterest className="icon" />
       </div>
       </div>
